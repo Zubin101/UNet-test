@@ -8,3 +8,5 @@ UNet Archicture for images Segmentation on medical images(Mitocondria)
    To download dataset use link  -- https://www.epfl.ch/labs/cvlab/data/data-em/
 
 
+To Install Requirmemnts file 
+pip install -r requirments.txt
